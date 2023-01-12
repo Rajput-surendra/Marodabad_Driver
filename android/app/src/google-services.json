@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539383160333",
+    "project_id": "moradabadmorning-760e1",
+    "storage_bucket": "moradabadmorning-760e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539383160333:android:036c778d84751d6bb03f44",
+        "android_client_info": {
+          "package_name": "com.marodabadmorning_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539383160333-vdq27g9kk0ugd208n37nmicvrlsdcd3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marodabadmorning_driver",
+            "certificate_hash": "4d2bfbae3745d3834836cafd3398e37efa83be69"
+          }
+        },
+        {
+          "client_id": "539383160333-egon8l35tua2uaddckrvmpd5mfelupm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPGhxONB9rtvxhnK0eUI-F112bmUnjcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539383160333-egon8l35tua2uaddckrvmpd5mfelupm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
